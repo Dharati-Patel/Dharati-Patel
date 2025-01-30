@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm an aspiring full-stack developer with a passio
 
 - 🌱 I’m constantly learning and expanding my skills in full-stack development.
 - 💬 Ask me about HTML, CSS, JavaScript, React, Node.js, Express, MySQL, MongoDB and Firebase.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/dharti-patel1) | [Email](mailto:dharatik15@gmail.com)
+- 📫 How to reach me: [Email](mailto:dharatik15@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
@@ -30,7 +30,6 @@ Welcome to my GitHub profile! I'm an aspiring full-stack developer with a passio
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/dharti-patel1)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Dharati-Patel)
 
 Feel free to reach out if you have any questions or just want to connect. Thanks for stopping by!
